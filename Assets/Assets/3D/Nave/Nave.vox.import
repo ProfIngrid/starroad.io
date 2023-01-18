@@ -1,0 +1,16 @@
+[remap]
+
+importer="MagicaVoxel.With.Extensions"
+type="Mesh"
+path="res://.import/Nave.vox-3b5b8707a98a1ec7a83bd2b16bdb54d2.mesh"
+
+[deps]
+
+source_file="res://Assets/Assets/3D/Nave/Nave.vox"
+dest_files=[ "res://.import/Nave.vox-3b5b8707a98a1ec7a83bd2b16bdb54d2.mesh" ]
+
+[params]
+
+Scale=0.1
+GreedyMeshGenerator=true
+SnapToGround=false
